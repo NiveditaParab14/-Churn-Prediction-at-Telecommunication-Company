@@ -1,0 +1,2 @@
+# -Churn-Prediction-at-Telecommunication-Company
+Analysed data from customer database of a Telecommunication company which was suffering from high customer churnrate Built a regression model for predicting probability of customers to churn and also  determine important variables driving churn at the company . Delivered insights and Recommendations based on the analysis to built retention strategy, decreasing churn, increasing ARPU and targeting marketing budget.
